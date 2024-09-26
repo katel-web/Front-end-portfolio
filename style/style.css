@@ -34,7 +34,7 @@ h3 {
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
-  padding: 160px 60px 120px;
+  padding: 120px 60px 120px;
 }
 
 .hero p {
