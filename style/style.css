@@ -114,6 +114,15 @@ a.active {
   color: var(--primary-color);
   font-weight: 600;
 }
+
+a {
+  color: var(--primary-color);
+}
+.contact-link {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
 footer .contact-box {
   background-color: var(--secondary-color);
   padding: 40px;
